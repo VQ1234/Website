@@ -1,0 +1,25 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  text-align: center;background-image: url("http://www.galaxys4wallpapershd.com/wp-content/uploads/Simple%20Background/Simple%20Galaxy%20S4%20Background%2087.jpg");
+}
+.box2{
+  float: left;
+  width: 45px;
+  border: 3px solid pink;
+  border-style: inset;
+  background-color: palevioletred;
+}
+.box{
+
+  border: 3px solid pink;
+  border-style: inset;
+  background-color: palevioletred;
+  height:250px;
+}
+h3{
+  color:blueviolet;
+  font-size: 20px;
+}
+img{
+ height:350px;
+}
